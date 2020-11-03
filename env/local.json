@@ -1,0 +1,6 @@
+{
+    "DB_CONNECT": "mongodb+srv://user:cluster?retryWrites=true&w=majority",
+    "PRIVATE_KEY": "todo_privatekey",
+    "PUBLIC_KEY": "todo_publickkey",
+    "INVOICE_NUMBER":"300"
+}

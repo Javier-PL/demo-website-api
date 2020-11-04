@@ -1,6 +1,6 @@
 # Demo instance
 
-Testing instance: https://demo-patients-frontend.herokuapp.com
+Testing instance: https://ccl-website-frontend.herokuapp.com/
 
 
 # Project Description
